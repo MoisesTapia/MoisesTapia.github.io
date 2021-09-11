@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "$ m4dh4tter"
+title                    : "m4dh4tter.io"
 title_separator          : "-"
-name                     : "m4dh4tter (Moises Tapia)"
+name                     : "Moises Tapia<br>$ m4dh4tter"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://MoisesTapia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "m4dh4tter (Moises Tapia)"
-  avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player:  HachTheBox, TryHackMe, PentesterLab<br>DevSecOps"
+  name             : "Moises Tapia<br>m4dh4tter"
+  avatar           : "/assets/images/cara300px.png"
+  bio              : "Pentester, CTF player:<br>HachTheBox<br>TryHackMe<br>PentesterLab<br>DevSecOps"
   location         : "Mexico"
   email            : "moisestapia741@gmail.com"
   uri              :
