@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "snowscan.io"
+title                    : "m4dh4tter.io"
 title_separator          : "-"
-name                     : "Snowscan"
+name                     : "m4dh4tter"
 description              : "Posts about security, CTFs and networking"
-url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://moisestapia.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "m4dh4tter"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
-  location         : "Canada"
+  bio              : "Pentester, CTF player<br>HackTheBox<br>DevSecOps"
+  location         : "Mexico"
   email            : "info@snowscan.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -112,7 +112,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "slemire"
   gitlab           :
